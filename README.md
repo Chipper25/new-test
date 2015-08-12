@@ -1,0 +1,3 @@
+Simons stamp collection
+
+test file to get reaquainted with git...
